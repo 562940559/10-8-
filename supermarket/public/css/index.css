@@ -1,0 +1,6 @@
+.list_title{font-size: 12px;}
+.list_title img{margin-right: 10px;}
+.bolder{font-size: 20px;font-weight: 700;}
+table tbody tr td:first-child{font-weight: 700;color: rgb(51,122,183);}
+.manage_select label,.manage_select input,.manage_select select{margin-right: 10px;}
+.manage_select button{margin-left: 20px;margin-right: 10px;}
